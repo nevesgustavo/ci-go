@@ -1,6 +1,8 @@
 # GoLand-specific
 .idea/
 *.iml
+.scannerwork
+coverage.out
 
 # Compiled files
 *.out
